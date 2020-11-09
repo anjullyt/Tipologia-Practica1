@@ -16,3 +16,5 @@
 ## Recursos
 ### Lawson, R. (2015). Web Scraping with Python. Packt Publishing Ltd. Chapter 2. Scraping the Data.
 ### Mitchel, R. (2015). Web Scraping with Python: Collecting Data from the Modern Web. O'Reilly Media, Inc. Chapter 1. Your First Web Scraper.
+
+###Tuve problema al cargar mis archivos es por eso que aparecen duplicados fuera y dentro de los folders, una disculpa
