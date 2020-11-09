@@ -10,7 +10,7 @@
 ### WebScrapping.py: contiene la implementación del scrapper de la pagina web Fansandbands la obtenciòn del precio de productos e imàgenes
 ### camisetas_bandas.csv: contiene los set de datos de resultado del py WebScrapping
 ### catalogo_full.csv: contiene los set de datos de resultado del py ToxicWebScrapping.py
-### *.jpg: imagenes descargadas del py WebScrapping
+### *.png: imagenes descargadas del py WebScrapping
 
 ## Recursos
 ### Lawson, R. (2015). Web Scraping with Python. Packt Publishing Ltd. Chapter 2. Scraping the Data.
